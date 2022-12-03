@@ -1,0 +1,9 @@
+pandas==1.3.5
+numpy==1.21.1
+yfinance==0.1.69
+talib==0.4.19
+datetime
+pandas_datareader
+pandas_ta==0.3.14b0
+plotly
+chart_studio
